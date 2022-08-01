@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...PHP :)
 - 📫 How to reach me: ...nstagram: @handle → Instagram: im_raj2.0
 - 😄 Pronouns: ...N/A :(
-- ⚡ Fun fact: ...i have failed at gratitude journaling for the 6th time now :) :(
+- ⚡ Fun fact: ...i have failed at gratitude journaling for the 6th time now :)
 -->

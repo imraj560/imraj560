@@ -7,3 +7,4 @@
 - 😄 Pronouns: ...N/A :(
 - ⚡ Fun fact: ...i have failed at gratitude journaling for the 6th time now :)
 -->
+www.linkedin.com/in/raju-ahmed-5a5894224

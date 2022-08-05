@@ -6,4 +6,3 @@
 - 📫 How to reach me: ...instagram: @handle → Instagram: im_raj2.0
 - 😄 Pronouns: ...N/A :(
 - ⚡ Fun fact: ...i have failed at gratitude journaling for the 6th time now :)
--

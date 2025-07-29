@@ -1,7 +1,7 @@
 ### Whats up people! 👋
 
-- 🔭 I’m currently working on a project using GraphQL
-- 🌱 I’m currently learning ... MERN Stack
+- 🔭 I’m currently working on a Resume Analyzer using AI
+- 🌱 I’m currently learning ... Next Js
 - 💬 Ask me about ...Javascript :)
 - 📫 How to reach me: ...instagram: @handle → Instagram: im_raj2.0, LinkedIn: www.linkedin.com/in/raju-ahmed-5a5894224
 - 😄 Pronouns: ...N/A :(

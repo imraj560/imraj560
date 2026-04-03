@@ -1,7 +1,7 @@
 ### Whats up people! 👋
 
-- 🔭 I’m currently working on a AI Agent
-- 🌱 I’m currently learning ... LangChain and Vector Db
+- 🔭 I’m currently working on a CLI Agent
+- 🌱 I’m currently going deep into Agentic AI
 - 💬 Ask me about ...Javascript :)
 - 📫 How to reach me: ...instagram: @handle → Instagram: im_raj2.0, LinkedIn: www.linkedin.com/in/raju-ahmed-5a5894224
 - 😄 Pronouns: ...N/A :(

@@ -11,3 +11,5 @@ Currently focused on:
 • Multi-agent systems
 • RAG pipelines
 • Production AI applications
+
+Ongoing ProjecT: agentForge -> This is n Software InvesitgatioN MCP Agentic Platform

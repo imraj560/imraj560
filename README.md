@@ -12,4 +12,4 @@ Currently focused on:
 • RAG pipelines
 • Production AI applications
 
-Ongoing ProjecT: agentForge -> This is n Software InvesitgatioN MCP Agentic Platform
+Ongoing ProjecT: agentForge -> This is a Software Invesitgation MCP Agentic Platform
